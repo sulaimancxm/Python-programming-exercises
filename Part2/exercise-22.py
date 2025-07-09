@@ -1,3 +1,4 @@
+# This program calculates integer numbers from the user until they enter 0
 print("Please type in integer numbers. Type in 0 to finish.")
 
 count = 0
