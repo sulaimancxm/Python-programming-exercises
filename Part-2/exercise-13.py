@@ -1,3 +1,5 @@
+# Fixing the code
+
 letter1 = str(input("1st letter: "))
 letter2 = str(input("2nd letter: "))
 letter3 = str(input("3rd letter: "))

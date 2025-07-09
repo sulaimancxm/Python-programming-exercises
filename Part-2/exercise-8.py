@@ -1,4 +1,4 @@
-# This code checks the age and prints a message based on the age.
+# This code checks the age and prints a message based on the age
 
 age = int(input("What is your age? "))
 if age >= 5:

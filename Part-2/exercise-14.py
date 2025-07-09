@@ -1,4 +1,4 @@
-# This program calculates the amount of gift tax to be paid in Finland based on the value of a gift received from a close relative,
+# This program calculates the amount of gift tax to be paid in Finland based on the value of a gift received from a close relative
 
 gift_value = int(input("Value of gift: "))
 

@@ -1,4 +1,4 @@
-# This program asks for the amount of points received and then prints out the grade accordig to the table.
+# This program asks for the amount of points received and then prints out the grade accordig to the table
 points = int(input("How many points [0-100]: "))
 if points < 0 or points > 100:
     grade = "impossible!"

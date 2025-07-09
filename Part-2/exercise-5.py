@@ -1,4 +1,4 @@
-# This program asks for two integer numbers and print out which ever is greater. If the number is equal, the program should print a different message.
+# This program asks for two integer numbers and print out which ever is greater. If the number is equal, the program should print a different message
 
 number1= int(input("Please type in a number: "))
 number2 = int(input("Plese type in another number: "))

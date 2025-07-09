@@ -1,4 +1,4 @@
-# This code compares two words and prints which one comes last alphabetically.
+# This code compares two words and prints which one comes last alphabetically
 
 word1 = input("Please type in the 1st word: ")
 word2 = input("Please type in the 2nd word: ")

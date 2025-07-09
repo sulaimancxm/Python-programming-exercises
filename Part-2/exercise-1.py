@@ -1,4 +1,4 @@
-# This code checks if a number is greater than 100 and modified accordingly.
+# This code checks if a number is greater than 100 and modified accordingly
 
 number = int(input("Please type in a number: "))
 if number > 100:

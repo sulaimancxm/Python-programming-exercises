@@ -1,4 +1,4 @@
-# This program checks if a given year is a leap year or not.
+# This program checks if a given year is a leap year or not
 
 year = int(input("Please type in a year: "))
 if year % 4 == 0:

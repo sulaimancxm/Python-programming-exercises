@@ -1,4 +1,4 @@
-# This code counts the number of letters in a word input by the user.
+# This code counts the number of letters in a word input by the user
 
 word = str(input("Please type in a word: "))
 length = len(word)

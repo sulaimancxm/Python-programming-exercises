@@ -1,4 +1,4 @@
-# This code checks if a person is of age based on their inputted age.
+# This code checks if a person is of age based on their inputted age
 
 age = int(input("Please how old are you? "))
 if age >= 18:

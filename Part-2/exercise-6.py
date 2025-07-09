@@ -1,4 +1,4 @@
-# This program compares the ages of two people and determines who is older.
+# This program compares the ages of two people and determines who is older
 
 print("Person 1: ")
 name1 = str(input("Name 1:"))

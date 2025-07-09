@@ -1,4 +1,4 @@
-# This program finds the next leap year after a given year that the user inputs.
+# This program finds the next leap year after a given year that the user inputs. 
 
 start_year = int(input("Year: "))
 year = start_year + 1

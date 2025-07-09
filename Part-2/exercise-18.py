@@ -1,6 +1,6 @@
 # This program asks the user for a password.
 # It will then asks the user to repeat the password.
-# If the user types in something else than the first password, the program should keep on asking untill the user types the first password again correctly.
+# If the user types in something else than the first password, the program should keep on asking untill the user types the first password again correctly
 
 passwd = input("Password: ")
 while True:
